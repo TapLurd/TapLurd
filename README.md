@@ -1,4 +1,4 @@
-##Hey There! 👋
+## Hey There! 👋
 
 I'm a Computer Science student with a passion for AI, web development, and game development.
 
