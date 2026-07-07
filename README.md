@@ -1,16 +1,22 @@
-## Hi there 👋
+##Hey There! 👋
 
-<!--
-**TapLurd/TapLurd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student with a passion for AI, web development, and game development.
 
-Here are some ideas to get you started:
+I enjoy building projects that help me learn new technologies and improve my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my work is built with Python and JavaScript, and I'm always looking for opportunities to explore new frameworks and tools.
+
+Right now, I'm focused on learning game development while continuing to expand my knowledge in AI and modern web technologies.
+
+Outside of coding, you'll probably find me playing games or traveling to new places.
+
+### Fun Facts
+
+-  Computer Science student
+-  Interested in Artificial Intelligence
+-  Exploring Web Development
+-  Currently learning Game Development
+-  Love traveling
+-  Enjoy playing games
+
+> *Always learning, always building.*
