@@ -1,6 +1,6 @@
 ## Hey There! 👋
 
-I'm a Computer Science student with a passion for AI, web development, and game development.
+I'm a Computer Science student - 🇵🇭 Based in the Philippines, with a passion for AI, web development, and game development.
 
 I enjoy building projects that help me learn new technologies and improve my problem-solving skills.
 
