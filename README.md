@@ -10,6 +10,8 @@ Right now, I'm focused on learning game development while continuing to expand m
 
 Outside of coding, you'll probably find me playing games or traveling to new places.
 
+________________________________________________________________________________________________________________________________
+
 ### Fun Facts
 
 -  Computer Science student
