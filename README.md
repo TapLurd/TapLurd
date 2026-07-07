@@ -1,3 +1,5 @@
+![Header Banner](<img width="1920" height="1080" alt="______________________________________" src="https://github.com/user-attachments/assets/5e0778e9-155c-4777-b571-658d3b501bcc" />)
+
 ## Hey There! 👋
 
 I'm a Computer Science student - 🇵🇭 Based in the Philippines, with a passion for AI, web development, and game development.
